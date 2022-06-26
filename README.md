@@ -6,9 +6,9 @@
 
 > Solana, React, Tailwind, Metaplex, Candymachine V2
 
-https://react-tail-wind-css-solano-nft.vercel.app/
+https://skullamint.vercel.app/
 
-[Visit Skulla](https://skullamint.netlify.app/ "Visit Skulla!") -> Solana blockchain based NFT mint Dapp
+[Visit Skulla](https://skullamint.vercel.app/ "Visit Skulla!") -> Solana blockchain based NFT mint Dapp
 
 
 
